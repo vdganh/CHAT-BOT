@@ -1,5 +1,5 @@
 import json
-x = open('D:\VSC\CODINGAN\PYTHON\BOT WA\data.json')
+x = open('data.json')
 data = json.load(x)
 
 print('''
